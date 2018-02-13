@@ -4,7 +4,7 @@ def display_board
   line_break = "-----------"
   puts row
   puts line_break
-  puts row 
+  puts row
   puts line_break
   puts row
 end
